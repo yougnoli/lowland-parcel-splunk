@@ -1,0 +1,4 @@
+# Share everything in this app with every app, read for all, write for admin.
+[]
+access = read : [ * ], write : [ admin ]
+export = system

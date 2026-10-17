@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Splunk's bookkeeping for objects saved from Splunk Web: not released, not worth committing
+metadata/local.meta
