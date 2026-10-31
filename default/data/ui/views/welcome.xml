@@ -1,0 +1,28 @@
+<dashboard version="1.1">
+  <label>Welcome</label>
+  <row>
+    <panel>
+      <html>
+        <h2>Lowland Parcel Co.</h2>
+        <p>This is your project app. Everything you build here belongs to the client's project.</p>
+        <p>Remember: only the <code>default/</code> folder ships to PROD.</p>
+      </html>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Tools</title>
+      <html>
+        <ul>
+          <li><a href="../../manager/appinstall/_upload">Install an app from a file</a>
+            (for example DB Connect, downloaded from Splunkbase).</li>
+          <li><a href="../../manager/lowland_parcel/control">Restart Splunk</a>
+            (apps such as DB Connect ask for it).</li>
+          <li><a href="dashboards">Your dashboards</a> and <a href="search">Search</a>.</li>
+        </ul>
+        <p>Java for DB Connect is installed. Its path, for DB Connect's
+          <em>JRE Installation Path</em> setting, is <code>/usr/lib/jvm/jre-21-openjdk</code>.</p>
+      </html>
+    </panel>
+  </row>
+</dashboard>
